@@ -1,0 +1,19 @@
+{
+  "name": "jis-mesh-tiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/center": "^7.0.0",
+    "big-associative": "^0.0.1",
+    "csv-parse": "^5.5.5",
+    "iconv-lite": "^0.6.3",
+    "japanmesh": "^1.1.5"
+  }
+}
